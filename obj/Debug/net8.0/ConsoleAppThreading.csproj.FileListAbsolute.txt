@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\bin\Debug\net8.0\ConsoleAppThreading.exe
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\bin\Debug\net8.0\ConsoleAppThreading.deps.json
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\bin\Debug\net8.0\ConsoleAppThreading.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\bin\Debug\net8.0\ConsoleAppThreading.dll
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\bin\Debug\net8.0\ConsoleAppThreading.pdb
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.dll
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\refint\ConsoleAppThreading.dll
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.pdb
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ConsoleAppThreading.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleAppThreading\ConsoleAppThreading\obj\Debug\net8.0\ref\ConsoleAppThreading.dll
